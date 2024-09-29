@@ -1,13 +1,14 @@
 ---
 redirect_from: "/"
 layout: 2025_sidebar
-title: International Conference on 3D Vision 2025
+title: Mobile Mapping for Autonomous Systems and Spatial Intelligence 2025
 year: 2025
 banner-image: img/2025/banners/singapore_07.jpg
-banner-title: Welcome to 3DV 2025
+banner-title: Welcome to MMT 2025
 header-image: img/2025/3dv2025_banner.png
 background: FF9900
 favicon: "img/2025/3dv.ico"
+
 ---
 
 <!-- <div style="border: 2px solid #467CFD; padding: 15px; text-align: left">
