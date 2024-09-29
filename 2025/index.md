@@ -5,7 +5,7 @@ title: Mobile Mapping for Autonomous Systems and Spatial Intelligence 2025
 year: 2025
 banner-image: img/2025/banners/singapore_07.jpg
 banner-title: Welcome to MMT 2025
-header-image: img/2025/3dv2025_banner.png
+header-image: img/mmt2025/banner_0.png
 background: FF9900
 favicon: "img/2025/3dv.ico"
 
