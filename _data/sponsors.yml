@@ -1,0 +1,247 @@
+2025:
+#  - section:
+#    name: Platinum Partners
+#    company:
+#     - name: huawei
+#       logo: img/2025/sponsors/huawei.png
+#       url: http://huawei.com
+#       height: 25em
+#       width: 48%
+#       mdsize: 8
+ - section:
+   name: Gold Partners
+   company:
+    - name: ETH Zurich
+      logo: img/2025/sponsors/eth.png
+      url: https://ethz.ch/de.html
+      height: 25em
+      width: 48%
+      mdsize: 8
+
+ - section:
+   name: Bronze Partner
+   company:
+    - name: Google
+      logo: img/2025/sponsors/Google.png
+      url: https://google.com/ 
+      height: 25em
+      width: 48%
+      mdsize: 8
+
+ - section:
+   name: Best Paper Award Sponsor
+   company:
+    - name: GALASports
+      logo: img/2025/sponsors/GALASports.png
+      url: https://www.galasports.net/EN/
+      height: 25em
+      width: 48%
+      mdsize: 8
+
+
+2024:
+ - section:
+   name: Platinum Partners
+   company:
+    - name: hexagon
+      logo: img/2024/sponsors/HEXAGON_STANDARD_RGB_LOGO Hires Standard.png
+      url: https://www.hexagon.com/
+      height: 25em
+      width: 48%
+      mdsize: 8
+    - name: hilti
+      logo: img/2024/sponsors/Hilti_logo.png
+      url: https://www.hilti.com/
+      height: 25em
+      width: 48%
+      mdsize: 8
+    - name: ecva
+      logo: img/2024/sponsors/ECVAlogo.png
+      url: http://ecva.net
+      height: 25em
+      width: 48%
+      mdsize: 8
+    - name: microsoft
+      logo: img/2024/sponsors/Microsoft_logo.png
+      url: http://microsoft.com
+      height: 25em
+      width: 48%
+      mdsize: 8
+
+ - section:
+   name: Silver Partner
+   company:
+    - name: niantic
+      logo: img/2024/sponsors/niantic.png
+      url: https://nianticlabs.com
+      height: 25em
+      width: 48%
+      mdsize: 8
+
+ - section:
+   name: Bronze Partner
+   company:
+    - name: disney_research
+      logo: img/2024/sponsors/DRS-Logo-Lockup-Black_resized.png
+      url: https://www.disneyresearch.com
+      height: 25em
+      width: 48%
+      mdsize: 8
+    - name: synthesia
+      logo: img/2024/sponsors/synthesia-logo.png
+      url: https://www.synthesia.io
+      height: 25em
+      width: 48%
+      mdsize: 8
+
+ - section:
+   name: Bronze Partner & Best Paper Award Sponsor
+   company:
+    - name: huawei
+      logo: img/2024/sponsors/huawei.png
+      url: http://huawei.com
+      height: 25em
+      width: 48%
+      mdsize: 8
+
+ - section:
+   name: Startup Partner & Best Student Paper Award Sponsor
+   company:
+    - name: meshcapade
+      logo: img/2024/sponsors/Meshcapade_Logo.jpg
+      url: https://meshcapade.com
+      height: 25em
+      width: 48%
+      mdsize: 8
+2022:
+ - section:
+   name: Platinum Partners
+   company:
+    - name: Epic Games
+      logo: img/2022/sponsors/epicgames_Logo_Vertical_Black.png
+      url: https://www.capturingreality.com/
+      height: 25em
+      mdsize: 6
+    - name: Meta
+      logo: img/2022/sponsors/RL-Research_Logo_Black.png
+      url: https://about.fb.com/realitylabs/
+      height: 20em
+      mdsize: 4
+ - section:
+   name: Gold Partners
+   company:
+    - name: 3dMD
+      logo: img/2022/sponsors/3dMD_logo_highres_wb.png
+      url: https://3dmd.com/ 
+      height: 10em
+      mdsize: 5
+    - name: Google
+      logo: img/2022/sponsors/google_logo.png
+      url: https://research.google/ 
+      height: 7em
+      mdsize: 5
+    - name: Huawei
+      logo: img/2022/sponsors/HW_POS_RGB_Horizontal.png
+      url: https://www.huawei.com/en/
+      height: 10em
+      mdsize: 6
+    - name: Naver Labs
+      logo: img/2022/sponsors/NLE_logo_2lines_black.svg
+      url: https://europe.naverlabs.com/
+      height: 5em
+      mdsize: 6
+ - section:
+   name: Silver Partners
+   company:
+    - name: Ocado
+      logo: img/2022/sponsors/Ocado_Tech_Logo_H_2018_Pantone.png
+      url: https://careers.ocadogroup.com/what-you-can-do/technology
+      height: 5em
+      mdsize: 6
+ - section:
+   name: Bronze Partners
+   company:
+     - name: Fyusion
+       logo: img/2022/sponsors/Fyusion_Logo_RGB_wb.png
+       url: https://fyusion.com/
+       height: 4em
+       mdsize: 5
+ - section:
+   name: Startup Partners
+   company:
+    - name: Meshcapade
+      logo: img/2022/sponsors/Meshcapade_RGB_Separated_wb.png
+      url: https://meshcapade.com/
+      height: 10em
+      mdsize: 6
+ - section:
+   name: Other Partners
+   company:
+     - name: Impact
+       logo: img/2022/sponsors/impact_wb.png
+       url: http://impact.ciirc.cvut.cz/ 
+       height: 15em
+       mdsize: 12
+
+
+2021:
+ - section:
+   name: Platinum Partner
+   company:
+    - name: Facebook
+      logo: img/2021/sponsors/rl-black-logo.png
+      url: https://about.facebook.com/realitylabs/
+      height: 20em
+ - section:
+   name: Gold Partners
+   company:
+    - name: Microsoft
+      logo: img/2021/sponsors/Microsoft_Logo.png
+      url: https://www.microsoft.com/en-gb
+      height: 5em
+    - name: Naver Labs
+      logo: img/2021/sponsors/naverlabs_logo.jpg
+      url: https://europe.naverlabs.com/
+      height: 5em
+    - name: Huawei (UK)
+      logo: img/2021/sponsors/huawei_logo.png
+      url: https://www.huawei.com/en/
+      height: 12em
+ - section:
+   name: Silver Partners
+   company:
+    - name: Adobe
+      logo: img/2021/sponsors/adobe_logo.png
+      url: https://research.adobe.com/
+      height: 5em
+    - name: Google
+      logo: img/2021/sponsors/google_logo.png
+      url: https://research.google/ 
+      height: 5em
+ - section:
+   name: Bronze Partners
+   company:
+    - name: vzense
+      logo: img/2021/sponsors/vzense_logo.png
+      url: https://www.vzense.com/
+      height: 5em
+    - name: Meshcapade
+      logo: img/2021/sponsors/meshcapade_logo.png
+      url: https://meshcapade.com/
+      height: 10em
+    - name: Niantic
+      logo: img/2021/sponsors/niantic_logo.png
+      url: https://nianticlabs.com/en/
+      height: 10em
+    - name: NVIDIA
+      logo: img/2021/sponsors/nvidia_logo.png
+      url: https://www.nvidia.com/
+      height: 8em
+    - name: Ocado Technology
+      logo: img/2021/sponsors/ocado_logo.jpg
+      url: https://www.ocadogroup.com/technology/technology-pioneers
+      height: 5em
+    - name: Mujin
+      logo: img/2021/sponsors/mujin_logo.png
+      url: https://www.mujin.co.jp/
+      height: 7em

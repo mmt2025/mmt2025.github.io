@@ -1,0 +1,250 @@
+2025:
+- name: Alireza Fathi
+  affiliation: Google
+  
+2024:
+- name: Alireza Fathi
+  affiliation: Google
+- name: Angel X Chang
+  affiliation: Simon Fraser University
+- name: Anpei Chen
+  affiliation: ETH/University of Tübingen
+- name: Anurag Ranjan
+  affiliation: Apple
+- name: Ayush Tewari
+  affiliation: MIT
+- name: Bharat Lal Bhatnagar
+  affiliation: Meta
+- name: Charles Ruizhongtai
+  affiliation: Waymo
+- name: Chuhang Zou
+  affiliation: Amazon
+- name: Davis Rempe
+  affiliation: NVIDIA
+- name: Despoina Paschalidou
+  affiliation: Stanford
+- name: Dimitrios Tzionas
+  affiliation: University of Amsterdam
+- name: Duygu Ceylan
+  affiliation: Adobe
+- name: Eduard Trulls
+  affiliation: Google
+- name: Federica Bogo
+  affiliation: Meta
+- name: Francis Williams
+  affiliation: NVIDIA
+- name: Georgios Pavlakos
+  affiliation: UC Berkeley
+- name: Jeong Joon Park
+  affiliation: University of Michigan
+- name: Justus Thies
+  affiliation: TU Darmstadt
+- name: Kwang Yi
+  affiliation: Seoul National University
+- name: Lingjie Liu
+  affiliation: University of Pennsylvania
+- name: Marek Kowalski
+  affiliation: Microsoft
+- name: Martin R. Oswald
+  affiliation: University of Amsterdam
+- name: Or Litany
+  affiliation: NVIDIA / Technion
+- name: Orazio Gallo
+  affiliation: NVIDIA
+- name: Philippos Mordohai
+  affiliation: Stevens Institute of Technology
+- name: Rana Hanocka
+  affiliation: University of Chicago
+- name: Sergey Tulyakov
+  affiliation: Snap
+- name: Shangzhe Wu
+  affiliation: Stanford
+- name: Shohei Nobuhara
+  affiliation: Kyoto University
+- name: Shubham Tulsiani
+  affiliation: Carnegie Mellon University
+- name: Songyou Peng
+  affiliation: ETH
+- name: Thu Nguyen-Phuoc
+  affiliation: Meta
+- name: Tolga Birdal
+  affiliation: Imperial College London
+- name: Tony Tung
+  affiliation: Meta
+- name: Torsten Sattler
+  affiliation:  Czech Technical University in Prague
+- name: Vincent Lepetit
+  affiliation: ENPC ParisTech
+- name: Wang Yifan
+  affiliation: National Univerisity of Singapore
+- name: Xiaowei Zhou
+  affiliation: Zhejiang University
+- name: Xin Tong
+  affiliation: Microsoft
+- name: Yan Zhang
+  affiliation: ETH
+- name: Zan Gojcic
+  affiliation: NVIDIA
+- name: Zhaopeng Cui
+  affiliation: Zhejiang University
+
+2022:
+ - name: Abdessamad	Ben Hamza
+   affiliation: Concordia University
+ - name: Armin Mustafa 
+   affiliation: University of Surrey
+ - name: Cedric Demonceaux 
+   affiliation: Univ. Bourgogne Franche-Comte, France
+ - name: Cenek Albl 
+   affiliation: Diminished Reality
+ - name: David Fouhey 
+   affiliation: University of Michigan
+ - name: Djamila Aouada 
+   affiliation: SnT, University of Luxembourg
+ - name: Federica Arrigoni 
+   affiliation: University of Trento
+ - name: Federico Tombari 
+   affiliation: Google, TU Munich
+ - name: Florent Lafarge 
+   affiliation: INRIA
+ - name: Hidekata Hontani 
+   affiliation: Nagoya Institute of Technology
+ - name: Hyun Soo Park 
+   affiliation: The University of Minnesota
+ - name: Jie Song 
+   affiliation: ETH Zurich
+ - name: Jinwei Ye 
+   affiliation: George Mason University
+ - name: Joao P Barreto 
+   affiliation: University of Coimbra
+ - name: Justus Thies 
+   affiliation: Max Planck Institute for Intelligent Systems
+ - name: Martin R. Oswald 
+   affiliation: ETH Zurich
+ - name: Norimichi Ukita 
+   affiliation: TTI-J
+ - name: Or Litany 
+   affiliation: NVIDIA
+ - name: Rei Kawakami 
+   affiliation: Tokyo Institute of Technology
+ - name: Seungryong Kim 
+   affiliation: Korea University
+ - name: Shohei Nobuhara 
+   affiliation: Kyoto University
+ - name: Shubham Tulsiani 
+   affiliation: Carnegie Mellon University
+ - name: Silvia Zuffi 
+   affiliation: IMATI-CNR
+ - name: Siyu Tang 
+   affiliation: ETH Zurich
+ - name: Srinivasa Narasimhan 
+   affiliation: Carnegie Mellon University, USA
+ - name: Stefan Leutenegger 
+   affiliation: TU Munich
+ - name: Sudipta Sinha 
+   affiliation: Microsoft
+ - name: Viktor Larsson 
+   affiliation: Lund University
+ - name: Vincent Lepetit 
+   affiliation: Ecole des Ponts ParisTech
+ - name: Xin Tong 
+   affiliation: Microsoft
+ - name: Yebin Liu 
+   affiliation: Tsinghua University
+ - name: Yiyi Liao 
+   affiliation: Zhejiang University
+ - name: Zan Gojcic 
+   affiliation: NVIDIA
+ - name: Zhaopeng Cui 
+   affiliation: Zhejiang University
+2021:
+ - name: Abdessamad	Ben Hamza
+   affiliation: Concordia University
+   image: img/2021/people/benhamza.jpg
+ - name: Adrien Bartoli
+   affiliation: Université Clermont Auvergne
+   image: img/2021/people/bartoli.jpg   
+ - name: Cedric Demonceaux
+   affiliation: Univ. Bourgogne Franche-Comte
+   image: img/2021/people/demonceaux.png
+ - name: Dimitrios Tzionas
+   affiliation: Max Planck Institute for Intelligent Systems
+   image: img/2021/people/tzionas.jpg  
+ - name: Edmond	Boyer
+   affiliation: Inria
+   image: img/2021/people/boyer.jpg   
+ - name: Emanuele Rodola
+   affiliation: Sapienza University of Rome
+   image: img/2021/people/rodola.jpg
+ - name: Federico Tombari
+   affiliation: Google
+   image: img/2021/people/tombari.png  
+ - name: Georgia Gkioxari
+   affiliation: Facebook AI Resaerch
+   image: img/2021/people/gkioxari.jpg  
+ - name: Giuseppe Patanè
+   affiliation: Consiglio Nazionale delle Ricerche
+   image: img/2021/people/patanè.jpg   
+ - name: Hamid Laga
+   affiliation: Murdoch university
+   image: img/2021/people/laga.jpg   
+ - name: Hansung Kim
+   affiliation: University of Southampton
+   image: img/2021/people/kim.jpg  
+ - name: Hyun Soo Park
+   affiliation: The University of Minnesota
+   image: img/2021/people/park.jpg   
+ - name: James Tompkin
+   affiliation: Brown University
+   image: img/2021/people/tompkin.jpg 
+ - name: Jean-Francois Lalonde
+   affiliation: Laval University
+   image: img/2021/people/lalonde.jpg  
+ - name: Joao P. Barreto
+   affiliation: University of Coimbra 
+   image: img/2021/people/barreto.jpg  
+ - name: Katerina Fragkiadaki
+   affiliation: Carnegie Mellon University
+   image: img/2021/people/fragkiadaki.png 
+ - name: Luigi Di Stefano
+   affiliation: University of Bologna
+   image: img/2021/people/stefano.jpg    
+ - name: Marc-Antoine Drouin  
+   affiliation: National Research Council
+   image: img/2021/people/drouin.jpg     
+ - name: Mohamed Daoudi
+   affiliation: IMT Lille Douai
+   image: img/2021/people/daoudi.jpg  
+ - name: Norimichi Ukita
+   affiliation: TTI-J
+   image: img/2021/people/ukita.jpg   
+ - name: Olga Bellon
+   affiliation: UFPR
+   image: img/2021/people/bellon.jpeg  
+ - name: Rei Kawakami
+   affiliation: Tokyo Institute of Technology
+   image: img/2021/people/kawakami.jpeg 
+ - name: Srikumar Ramalingam
+   affiliation:  University of Utah
+   image: img/2021/people/ramalingam.png   
+ - name: Srinivasa Narasimhan
+   affiliation: Carnegie Mellon University
+   image: img/2021/people/narasimhan.jpeg  
+ - name: Stefano Berretti
+   affiliation: University of Florence
+   image: img/2021/people/berretti.jpeg   
+ - name: Stefanos Zafeiriou
+   affiliation: Imperial College London
+   image: img/2021/people/zafeiriou.jpg   
+ - name: Tony Tung
+   affiliation: Facebook
+   image: img/2021/people/tung.png   
+ - name: Torsten Sattler
+   affiliation: Czech Technical University in Prague 
+   image: img/2021/people/sattler.jpeg   
+ - name: Xin Tong
+   affiliation: Microsoft
+   image: img/2021/people/tong.jpg   
+ - name: Yebin Liu
+   affiliation: Tsinghua University
+   image: img/2021/people/liu.jpeg   

@@ -1,0 +1,83 @@
+2024:
+  - title: "3D Gaussian Splatting"
+    date: March 18, 2024  (14:30 - 18:00)
+    room: TBD
+    website: "https://3dgstutorial.github.io/"
+    organisers:
+      - name: Georgios Kopanas
+        affiliation: Google
+      - name: Bernhard Kerbl
+        affiliation: TU Wien
+      - name: Jonathon Luiten
+        affiliation: Meta Reality Labs
+      - name: Antoine Guédon
+        affiliation: ENPC
+    description: "3D Gaussian Splatting(3DGS) suggests a rasterization-based method for reconstructing radiance fields. This allows for high-quality reconstruction that achieves high speed and performance even for low-end devices. Gaussian Splatting motivated practitioners to build a significant amount of tools and applications. 3DGS  has also been integrated with frameworks like Unity, Unreal, three.js, and NeRFStudio. On top of that, a significant amount of research that uses 3DGS has been released, spanning different topics: from dynamic and human reconstruction to SLAM, 3D Generative Models, and many more.
+
+In this tutorial, we will first explain 3DGS, we will give practical suggestions about using the different tools we find useful in a research context, and talk about the progress in the research domain.
+"
+    order: 2
+
+  - title: "Camera Geometry Problems in Computer Vision"
+    date: March 18, 2024  (14:20 - 18:00)
+    room: TBD
+    website: "https://sites.google.com/view/camgeo2024/home"
+    organisers: 
+      - name: Zuzana Kukelova
+        affiliation: Czech Technical University (CTU) in Prague
+      - name: Laura Leal-Taixé
+        affiliation: NVIDIA
+      - name: Daniel Barath
+        affiliation: ETH Zürich
+      - name: Viktor Larsson
+        affiliation: Lund University
+      - name: Tomas Pajdla
+        affiliation: Czech Technical University (CTU) in Prague
+      - name: Torsten Sattler
+        affiliation: Czech Technical University (CTU) in Prague
+    description: "The aim of this tutorial is to raise awareness of the tools for camera geometry estimation (solvers and solver generators) that are nowadays at the disposal of 3D vision researchers and practitioners and which problems can and cannot be efficiently solved at the moment. To this end, the tutorial will discuss current state-of-the-art minimal and non-minimal solvers, explain how to implement them and how to use them in practice, as well as give examples of their use in applications."
+    order: 1
+
+2022:
+  - title: "Affine Correspondences and their Applications in Practice"
+    organisers: 
+      - name: Dmytro Mishkin
+        affiliation: FEE, CTU in Prague
+      - name: Daniel Barath
+        affiliation: ETH Zürich
+      - name: Levente Hajder
+        affiliation: Eötvös Loránd University, Hungary
+      - name: James Pritts
+        affiliation: CIIRC, CTU in Prague
+    description: "The main objective of this tutorial is to present the theory and applications of affine correspondences (AC) in computer vision.The tutorial will show recent advancements in exploiting affine features in single- and two-view problems, including image rectification, homography and epipolar geometry estimation. Also, we will discuss traditional and recent deep learning-based algorithms for detecting, matching, and robustly using such features in real-world images."
+    order: 1
+    preztype: "In Person"
+  - title: "MonoRec: Deconstructing Monocular Depth Reconstruction"
+    organisers: "J. Spencer, A. Saha, C. Russell, S. Hadfield, and R. Bowden"
+    organisers:
+      - name: Jaime Spencer Martin
+        affiliation: CVSSP, University of Surrey
+      - name: Avishkar Saha
+        affiliation: CVSSP, University of Surrey
+      - name: Chris Russell
+        affiliation: AWS Tübingen 
+      - name: Simon Hadfield
+        affiliation: CVSSP, University of Surrey
+      - name: Richard Bowden
+        affiliation: CVSSP, University of Surrey
+    description: "Humans rely on stereo vision and motion parallax to estimate depth in their near surroundings. However, these cues become weaker as depth increases. As a result, humans rely profoundly on monocular cues when estimating depth in the far range.
+    <br>Depth estimation is one of the central challenges of monocular 3D reconstruction. Computer vision algorithms for 3D reconstruction from monocular images have advanced substantially over the past few years. However, depth estimation in the far range still suffers from poor accuracy. This can be partly attributed to the insufficient cues used by current approaches. Moreover, the benchmarking procedure for these algorithms has remained largely unchanged relying on simple metrics and sparse LiDAR data. This prevents insights into the performance of each method, especially where the ground-truth is incorrect.
+    <br>This tutorial will serve as an introduction to the field of monocular 3D reconstruction, discussing both fundamental approaches and recent State-of-the-Art. The focus will be on various approaches to depth estimation, from the use of graphs to implicitly reason about depth, to more explicit representations. Additionally, a core component of the tutorial will be centred on a novel Monocular Depth Estimation (MDE) benchmarking procedure. This will cover important topics such as training different baselines in a fair and comparable manner, the selection of metrics and a new evaluation dataset containing a variety of complex urban and natural scenes."
+    order: 2
+    preztype: "In Person"
+
+2021:
+ - title: "Spectral Geometry in Practice"
+   organisers: "Riccardo Marin, Luca Cosmo, Simone Melzi, Arianna Rampini and Emanuele Rodola"
+   description: "The tutorial will give an overview of the foundations and the current state of the art on computational spectral geometry to highlight the main benefits of spectral pipelines, as well as their current limitations and future developments in the context of computer graphics and computer vision. We will discuss both the “forward” path typical of spectral geometry pipelines (e.g. computing Laplacian eigenvalues and eigenvectors of a given shape) with its widespread applicative relevance and the inverse path (e.g. recovering a shape from given Laplacian eigenvalues, like in the classical “hearing the shape of the drum” problem) with its ill-posed nature and the benefits showcased on several challenging tasks in graphics and geometry processing.
+ The tutorial aims at a broad audience with a basic understanding of geometry processing."
+   order: 1
+ - title: "Advances in Neural Rendering"
+   organisers: "Michael Zollhoefer, Ayush Tewari, Vincent Sitzmann, Gordon Wetzstein, Christoph Lassner, Lingjie Liu, Justus Thies"
+   description: "Neural rendering is a fast evolving field at the intersection of computer graphics and computer vision. In this tutorial, we will talk about the advances in neural rendering, especially the underlying 2D and 3D representations that allow for novel viewpoint synthesis, controllability and editability. Specifically, we will discuss neural rendering methods based on 2D GANs, techniques using 3D Neural Radiance Fields or learnable sphere proxies. Besides methods that handle static content, we will talk about dynamic content as well."
+   order: 2
