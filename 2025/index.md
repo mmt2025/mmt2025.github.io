@@ -28,11 +28,15 @@ Regular Regular Registration Deadline: <b>March 10, 2025</b>
 </i>
 </div> -->
 
-The 12th International Conference on 3D Vision will be held in-person in **Singapore** on **March 25-28, 2025**.
+<!-- The 12th International Conference on 3D Vision will be held in-person in **Singapore** on **March 25-28, 2025**. -->
 
-<!-- This event has provided a premier platform for disseminating research results covering a broad variety of topics in the area of 3D research in computer vision and graphics, from novel optical sensors, signal processing, geometric modelling, representation and transmission, to visualization and interaction, and a variety of applications.  -->
+The International Symposium on Mobile Mapping Technology (MMT) is the premier event traditionally jointly organized by the ISPRS, FIG, and IAG. The symposium has been organized on a two-year basis since 1997, when The Ohio State University hosted the first International Conference on Mobile Mapping Systems. 
 
-Since 2013, under the name 3DV, this event has been a platform for disseminating research results covering a broad variety of topics in 3D computer vision and graphics, from novel optical sensors, signal processing, geometric modeling, representations, to reconstruction, visualization, analysis, rendering, interaction, and a variety of applications. 3DV 2025 will showcase high-quality single-track oral and poster presentations and demonstration sessions. It will also feature industrial exhibitions and mentoring sessions held in conjunction with the main conference. Proposals for Workshops and Tutorials are also invited.
+MMT symposium is a major forum for discussing recent research and developments in mobile mapping technology, including systems and applications, providing a platform for international scholars, scientists, industry professionals, decision makers and students to exchange knowledge and share experiences on the most recent MMT developments. The continuing advancements of mobile mapping technology, remote sensing and geospatial information science greatly influence almost all aspects of geomatics surveying practice and have direct impact on our everyday life. The market share of mobile mapping, remote sensing, satellite imaging and geospatial information systems has significantly grown in the last decade and it is expected to increase even at a faster rate in the future.
+
+The Symposium will cover the entire spectrum of the latest developments in mobile mapping technology, including research, algorithm implementation and system developments, ranging from land-based to airborne platforms, from direct georeferencing to sensor integration, from mobile data collection to dynamic GIS management, from positioning to mapping, from autonomous vehicles to drones, from data analitycs to artificial intelligence tools to support geospatial data understanding and interpretation, moving from post-processing to real-time operations. 
+
+The Spatial Sensing and Computing Lab of the Xiamen University is honored to host the 13rd International symposium on Mobile Mapping Technology in Xiamen (China), on June 20-22, 2024.
 
 
 <!-- <br>
