@@ -4,7 +4,9 @@ year: 2025
 title: Author Guidelines
 ---
 
-All authors should carefully review the following policies that govern the submission and review process,
+Please submit your paper at **[here](https://www.conftool.org/isprs-mmt-2025/)**.
+
+<!-- All authors should carefully review the following policies that govern the submission and review process,
 as failure to comply with these policies may result in the rejection of your submission as well as possible additional sanctions in the case of dual submissions and plagiarism.
 By submitting a paper, the authors agree to the guidelines stipulated in this page.
 In addition, authors are urged to consult the [FAQs]({{site.url}}/{{page.year}}/author-faq) as well as the [OpenReview Instructions]({{site.url}}/{{page.year}}/author-instructions).
@@ -95,4 +97,4 @@ The goals of 3DV are to publish exciting new work for the first time and to avoi
 
 **Publicity, social media:** 
 The social media policies are consistent with CVPR'25. In particular, 
-authors will be allowed to post to social media about their papers in submission. However, until the final accept/reject decisions are released by the conference, posts to social media must not identify the conference name. Violations may result in the paper being rejected or removed from the conference and proceedings. 
+authors will be allowed to post to social media about their papers in submission. However, until the final accept/reject decisions are released by the conference, posts to social media must not identify the conference name. Violations may result in the paper being rejected or removed from the conference and proceedings.  -->

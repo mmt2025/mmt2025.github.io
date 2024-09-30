@@ -60,25 +60,25 @@
    nested:
    - title: Author Guidelines
      url: author-guidelines
-   - title: Author OpenReview Instructions
-     url: author-instructions
-   - title: Author FAQs
-     url: author-faq
-   - title: Reviewer Guidelines
-     url: reviewer-guidelines
+  #  - title: Author OpenReview Instructions
+  #    url: author-instructions
+  #  - title: Author FAQs
+  #    url: author-faq
+  #  - title: Reviewer Guidelines
+  #    url: reviewer-guidelines
 
  - title: Important Dates
    url: dates
 
- - title: Partnerships
-   nested:
-   - title: Partnership Program
-     url: partnership
-   - title: Sponsors
-     url: sponsors
+#  - title: Partnerships
+#    nested:
+#    - title: Partnership Program
+#      url: partnership
+#    - title: Sponsors
+#      url: sponsors
 
- - title: Attending
-   url: about-city
+#  - title: Attending
+#    url: about-city
 
  - title: Organizers
    nested:
