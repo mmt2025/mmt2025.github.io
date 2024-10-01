@@ -3,7 +3,7 @@ layout: 2025_sidebar
 title: Call for Papers
 year: 2025
 ---
-A PDF version with the important dates can be found <a href="{{site.url}}/files/2025/mmt/MMT_Call For Papers Poster.pdf" target="_blank">**here**</a>.
+<!-- A PDF version with the important dates can be found <a href="{{site.url}}/files/2025/mmt/MMT_Call For Papers Poster.pdf" target="_blank">**here**</a>. -->
 
 
 We invite submissions to the 13th International Conference on Mobile Mapping Technology(2025), which will be held in China, on **June 20-22, 2025**. The International Symposium on Mobile Mapping Technology (MMT) is the premier event traditionally jointly organized by the ISPRS, FIG, and IAG. The symposium has been organized on a two-year basis since 1997, when The Ohio State University hosted the first International Conference on Mobile Mapping Systems. 
