@@ -36,7 +36,7 @@ MMT symposium is a major forum for discussing recent research and developments i
 
 The Symposium will cover the entire spectrum of the latest developments in mobile mapping technology, including research, algorithm implementation and system developments, ranging from land-based to airborne platforms, from direct georeferencing to sensor integration, from mobile data collection to dynamic GIS management, from positioning to mapping, from autonomous vehicles to drones, from data analitycs to artificial intelligence tools to support geospatial data understanding and interpretation, moving from post-processing to real-time operations. 
 
-The Spatial Sensing and Computing Lab of the Xiamen University is honored to host the 13rd International symposium on Mobile Mapping Technology in Xiamen (China), on June 20-22, 2024.
+MMT 2025 will be hosted by ASC (Lab of spAtial Sensing & Computing), Xiamen University, and ISPRS WG I/2 WG I/8 WG II/2, in Xiamen (China), on June 20-22, 2024.
 
 
 <!-- <br>

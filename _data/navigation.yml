@@ -80,12 +80,20 @@
 #  - title: Attending
 #    url: about-city
 
- - title: Organizers
+ - title: Committees
    nested:
    - title: Organizing Committee
      url: people
-  #  - title: Steering Committee
-  #    url: steering-committee
+   - title: International Advisory Committee
+     url: Committee_2
+   - title: Scientific Committee
+     url: Committee_3    
+
+ - title: Venue
+   url: venue_2025
+
+ - title: Registration
+   url: registration_2025
 
 #  - title: Submission
 #    nested:

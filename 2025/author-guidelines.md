@@ -6,6 +6,8 @@ title: Author Guidelines
 
 Please submit your paper at **[here](https://www.conftool.org/isprs-mmt-2025/)**.
 
+If you have any questions, please contact <strong><a href="mmt2025sponsor@outlook.com">mmt2025sponsor@outlook.com</a></strong>.
+
 <!-- All authors should carefully review the following policies that govern the submission and review process,
 as failure to comply with these policies may result in the rejection of your submission as well as possible additional sanctions in the case of dual submissions and plagiarism.
 By submitting a paper, the authors agree to the guidelines stipulated in this page.
