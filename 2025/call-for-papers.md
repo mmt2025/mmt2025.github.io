@@ -49,4 +49,4 @@ Topics of interest include, but are not limited to:
 - Diaital Water Conservancy
 - Cultural Heritage Conservation
 
-If you have any questions, please contact <strong><a href="mmt2025sponsor@outlook.com">mmt2025sponsor@outlook.com</a></strong>.
+If you have any questions, please contact <strong><a href="mmt2025paper@outlook.com">mmt2025paper@outlook.com</a></strong>.
