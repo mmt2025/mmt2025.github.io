@@ -1,14 +1,12 @@
-title: "3DV"
-tagline: "International Conference on 3D Vision"
+title: "MMT"
+tagline: "Mobile Mapping for Autonomous Systems and Spatial Intelligence"
 
 # url: https://3dvconf.github.io   ########
-url: https://mmt2025.github.io
-# url: "http://www.3dv.org"
-# url: "localhost:1200"
-baseurl: ""
+url: https://mmt2025.xmu.edu.cn
+baseurl: "https://mmt2025.xmu.edu.cn"
 
-twitter: https://twitter.com/3DVconf
-xiaohongshu: https://www.xiaohongshu.com/user/profile/6360cac9000000001f018c8c
+# twitter: https://twitter.com/3DVconf
+# xiaohongshu: https://www.xiaohongshu.com/user/profile/6360cac9000000001f018c8c
 
 permalink: /:categories/:title/
 safe: true

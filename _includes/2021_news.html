@@ -10,7 +10,7 @@
     {% for post in site.posts limit:5 %}
       {% if post.year == page.year %}
 	    <li>
-	      <a href="{{site.url}}{{ post.url }}">
+	      <a href="{{ post.url }}">
 	      	<div>
 	      		<b><i class="fas fa-arrow-right"></i>   &nbsp; {{ post.title }}</b><br>
 	      		<b>{{ post.date  | date: "%Y-%m-%d"}}</b>
